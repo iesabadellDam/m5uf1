@@ -1,7 +1,7 @@
-1. Desenvolupament de programari
+#1. Desenvolupament de programari
 
 
-1.1. Concepte de programa informàtic.
+##1.1. Concepte de programa informàtic.
 
 
 
