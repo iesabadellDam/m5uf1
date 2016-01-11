@@ -1,6 +1,6 @@
 #__M5 Entorns de desenvolupament__.
 
-##[__1. Desenvolupament de programari__.]("programa_informatic.md")
+##[__1. Desenvolupament de programari__.](programa_informatic.md)
 
 ###1.1. Concepte de programa informàtic.
 
