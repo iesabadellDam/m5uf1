@@ -8,4 +8,4 @@
 
 ###[__1.3.Tipus de llenguatge de programació__.](tipus.md)
 
-###[__1.4.__.]()
+###[__1.4.Paradigmes de programació__.](paradigmes.md)
