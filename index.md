@@ -4,6 +4,6 @@
 
 ###[__1.1. Concepte de programa informàtic__.](programa_informatic.md)
 
-###1.2.Codi font, codi objecte i executable; màquines virtuals.
+###[__1.2.Codi font, codi objecte i executable; màquines virtuals__.](codi_font.md)
 
 ###1.3.Tipus de llenguatge de programació.
