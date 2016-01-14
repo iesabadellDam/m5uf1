@@ -6,4 +6,6 @@
 
 ###[__1.2.Codi font, codi objecte i executable; màquines virtuals__.](codi_font.md)
 
-###1.3.Tipus de llenguatge de programació.
+###[__1.3.Tipus de llenguatge de programació__.](tipus.md)
+
+###[__1.4.__.]()
