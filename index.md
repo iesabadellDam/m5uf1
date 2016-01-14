@@ -9,3 +9,5 @@
 ###[__1.3.Tipus de llenguatge de programació__.](tipus.md)
 
 ###[__1.4.Paradigmes de programació__.](paradigmes.md)
+
+##[__1.5.__.](difosos.md)
