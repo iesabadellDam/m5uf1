@@ -10,4 +10,4 @@
 
 ###[__1.4.Paradigmes de programació__.](paradigmes.md)
 
-##[__1.5.__.](difosos.md)
+##[__1.5.Característiques dels llenguatges més difosos__.](difosos.md)
