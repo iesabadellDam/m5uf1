@@ -24,4 +24,4 @@
 
 ####*Quarta generació*.Aporten un nivell molt alt d'abstracció en la programació, permeten desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior al necessari per als llenguatges de 3a generació.
 
-####*Tercera generació*.Són llenguatges específics per al tractament de problemes relacionats amb la intel.ligència artificial i els sistemes experts.
+####*Cinquena generació*.Són llenguatges específics per al tractament de problemes relacionats amb la intel.ligència artificial i els sistemes experts.
