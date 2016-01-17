@@ -12,7 +12,7 @@
 ##**1.3.1.Característiques dels llenguatges de primera i segona generació.**
 
 ####*Primera i segona*.Permeten escriure programes molt optimitzats que aprofiten al màxim el maquinari disponible. Tambè permeten al programador especificar exactament quines instruccions vol que s'executin.
-Per altra banda els programes escrits en baix nivell estan completament lligats al maquinari on s'executaran i no es poden traslladar fàcilment a altres sistemes amb maquinari diferent.
+####Per altra banda els programes escrits en baix nivell estan completament lligats al maquinari on s'executaran i no es poden traslladar fàcilment a altres sistemes amb maquinari diferent.
 
 ####*Definició*..Codi font traduit a codi màquina pel compilador, però aquest codi encara no pot ser executat per lórdinador.
 ####*Definició*. *Codi executable*.Es la traducció completa a codi màquina, duta a terme per l'enllaçador. El codi executable és interpretat directament per l'ordinador.
