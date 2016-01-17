@@ -18,4 +18,10 @@
 
 ####*Els intèrprets*.Programa que tradueix el codi d'alt nivell a codi de bytes.
 
+##**1.3.1.Característiques dels llenguatges de tercera, quarta i cinquena generació.**
+
 ####*Tercera generació*.Són llenguatges més evolucionats, utilitzen paraules i frases relativament fàcils d'entendre i proporcionen també facilitats per expressar alteracions de flux de control d'una forma bastant senzilla i intuïtiva.
+
+####*Quarta generació*.Aporten un nivell molt alt d'abstracció en la programació, permeten desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior al necessari per als llenguatges de 3a generació.
+
+####*Tercera generació*.Són llenguatges específics per al tractament de problemes relacionats amb la intel.ligència artificial i els sistemes experts.
