@@ -11,3 +11,5 @@
 ###[__1.4. Paradigmes de programació__.](paradigmes.md)
 
 ###[__1.5. Característiques dels llenguatges més difosos__.](difosos.md)
+
+###[__1.6. Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació, entre d'altres__.](difosos.md)
