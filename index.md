@@ -14,4 +14,3 @@
 
 ###[__1.6. Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació, entre d'altres__.](fases.md)
 
-###[__1.7. Procés d'obtenció de codi executable a partir del codi font; eines implicades__.](proces.md)
